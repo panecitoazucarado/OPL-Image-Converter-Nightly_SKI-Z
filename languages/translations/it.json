@@ -1,0 +1,109 @@
+{
+    "language_code": "it",
+    "language_name": "Italiano",
+  
+    "app_name": "OPL Image Converter",
+    "app_description": "Applicazione per convertire e ridimensionare immagini per OPL Manager",
+  
+    "menu_help": "Aiuto",
+    "menu_about": "Informazioni",
+    "menu_language": "Lingua",
+    "menu_theme": "Tema",
+  
+    "theme_system": "Sistema (Auto)",
+    "theme_light": "Modalità Chiara",
+    "theme_dark": "Modalità Scura",
+    "theme_purple": "Viola",
+    "theme_dark_purple": "Viola Scuro",
+  
+    "file_selection": "Selezione File",
+    "select_files": "Seleziona File",
+    "select_folder": "Seleziona Cartella",
+    "files_selected": "{} file selezionati",
+    "no_files_selected": "0 file selezionati",
+  
+    "image_type": "Tipo di Immagine",
+    "image_type_cover": "Copertina",
+    "image_type_spine": "Dorso",
+    "image_type_back": "Retro",
+    "image_type_screenshot": "Screenshot",
+    "image_type_background": "Sfondo",
+    "image_type_disc": "Disco",
+    "image_type_logo": "Logo",
+  
+    "options": "Opzioni",
+    "maintain_aspect_ratio": "Mantieni proporzioni",
+    "auto_rename": "Rinomina automaticamente in base al tipo",
+  
+    "output_directory": "Directory di Output",
+  
+    "actions": "Azioni",
+    "convert": "Converti",
+    "clear_selection": "Cancella Selezione",
+  
+    "preview": "Anteprima",
+    "original": "Originale",
+    "processed": "Elaborato",
+    "drag_drop_here": "Trascina e rilascia un'immagine qui",
+    "processed_preview": "Anteprima elaborata",
+    "previous": "← Precedente",
+    "next": "Successivo →",
+    "image_count": "Immagine {} di {}",
+  
+    "history": "Cronologia",
+    "date": "Data",
+    "type": "Tipo",
+    "files": "File",
+    "status": "Stato",
+    "open_folder": "Apri Cartella",
+    "clear_history": "Cancella Cronologia",
+  
+    "status_ready": "Pronto",
+    "status_files_loaded": "{} file caricati",
+    "status_processing": "Elaborazione immagini...",
+    "status_processing_count": "Elaborazione... {}/{}",
+    "status_completed": "Processo completato: {}/{} successi",
+    "status_selection_cleared": "Selezione cancellata",
+    "status_directory_opened": "Directory aperta: {}",
+    "status_history_cleared": "Cronologia cancellata",
+  
+    "dialog_help_title": "Aiuto",
+    "dialog_help_content": "OPL Image Converter - Aiuto\n\n1. Seleziona file o cartelle con immagini\n2. Scegli il tipo di immagine da convertire\n3. Configura le opzioni desiderate\n4. Clicca su 'Converti' per elaborare le immagini\n\nPuoi anche trascinare e rilasciare immagini direttamente nell'area di anteprima.",
+  
+    "dialog_about_title": "Informazioni",
+    "dialog_about_version": "Versione {}",
+    "dialog_about_developer": "Sviluppato da: {}",
+    "dialog_about_github": "GitHub: {}",
+    "dialog_about_technologies": "Tecnologie utilizzate",
+    "dialog_about_system": "Sistema: {} {}",
+    "dialog_about_close": "Chiudi",
+  
+    "dialog_error_title": "Errore",
+    "dialog_error_preview": "Impossibile caricare l'anteprima: {}",
+    "dialog_error_directory": "Impossibile aprire la directory:\n{}",
+    "dialog_error_history_entry": "Voce della cronologia non trovata",
+    "dialog_error_fatal": "Si è verificato un errore irreversibile:\n{}",
+  
+    "dialog_warning_title": "Avviso",
+    "dialog_warning_no_files": "Nessuna immagine selezionata per l'elaborazione",
+    "dialog_warning_no_images": "Nessuna immagine compatibile trovata nella cartella selezionata.",
+    "dialog_warning_selection_required": "Seleziona un elemento dalla cronologia",
+  
+    "dialog_info_title": "Informazione",
+    "dialog_info_completed": "{} immagini elaborate con successo",
+  
+    "dialog_confirm_title": "Conferma",
+    "dialog_confirm_clear_history": "Cancellare tutta la cronologia?",
+    "dialog_confirm_yes": "Sì",
+    "dialog_confirm_no": "No",
+  
+    "image_type_description_cover": "Copertina frontale del gioco",
+    "image_type_description_spine": "Dorso laterale della confezione",
+    "image_type_description_back": "Retro della copertina del gioco",
+    "image_type_description_screenshot": "Screenshot del gioco",
+    "image_type_description_background": "Immagine di sfondo per il menu",
+    "image_type_description_disc": "Immagine del disco o etichetta",
+    "image_type_description_logo": "Logo del gioco o titolo"
+  }
+  
+  

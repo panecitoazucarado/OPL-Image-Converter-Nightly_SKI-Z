@@ -1,0 +1,109 @@
+{
+    "language_code": "pt_br",
+    "language_name": "Português (Brasil)",
+  
+    "app_name": "OPL Image Converter",
+    "app_description": "Aplicativo para converter e redimensionar imagens para o OPL Manager",
+  
+    "menu_help": "Ajuda",
+    "menu_about": "Sobre",
+    "menu_language": "Idioma",
+    "menu_theme": "Tema",
+  
+    "theme_system": "Sistema (Auto)",
+    "theme_light": "Modo Claro",
+    "theme_dark": "Modo Escuro",
+    "theme_purple": "Roxo",
+    "theme_dark_purple": "Roxo Escuro",
+  
+    "file_selection": "Seleção de Arquivos",
+    "select_files": "Selecionar Arquivos",
+    "select_folder": "Selecionar Pasta",
+    "files_selected": "{} arquivos selecionados",
+    "no_files_selected": "0 arquivos selecionados",
+  
+    "image_type": "Tipo de Imagem",
+    "image_type_cover": "Capa",
+    "image_type_spine": "Lombada",
+    "image_type_back": "Contracapa",
+    "image_type_screenshot": "Captura de Tela",
+    "image_type_background": "Fundo",
+    "image_type_disc": "Disco",
+    "image_type_logo": "Logo",
+  
+    "options": "Opções",
+    "maintain_aspect_ratio": "Manter proporção",
+    "auto_rename": "Renomear automaticamente por tipo",
+  
+    "output_directory": "Diretório de Saída",
+  
+    "actions": "Ações",
+    "convert": "Converter",
+    "clear_selection": "Limpar Seleção",
+  
+    "preview": "Pré-visualização",
+    "original": "Original",
+    "processed": "Processado",
+    "drag_drop_here": "Arraste e solte uma imagem aqui",
+    "processed_preview": "Pré-visualização processada",
+    "previous": "← Anterior",
+    "next": "Próximo →",
+    "image_count": "Imagem {} de {}",
+  
+    "history": "Histórico",
+    "date": "Data",
+    "type": "Tipo",
+    "files": "Arquivos",
+    "status": "Status",
+    "open_folder": "Abrir Pasta",
+    "clear_history": "Limpar Histórico",
+  
+    "status_ready": "Pronto",
+    "status_files_loaded": "{} arquivos carregados",
+    "status_processing": "Processando imagens...",
+    "status_processing_count": "Processando... {}/{}",
+    "status_completed": "Processo concluído: {}/{} sucessos",
+    "status_selection_cleared": "Seleção limpa",
+    "status_directory_opened": "Diretório aberto: {}",
+    "status_history_cleared": "Histórico limpo",
+  
+    "dialog_help_title": "Ajuda",
+    "dialog_help_content": "OPL Image Converter - Ajuda\n\n1. Selecione arquivos ou pastas com imagens\n2. Escolha o tipo de imagem para converter\n3. Configure as opções desejadas\n4. Clique em 'Converter' para processar as imagens\n\nVocê também pode arrastar e soltar imagens diretamente na área de pré-visualização.",
+  
+    "dialog_about_title": "Sobre",
+    "dialog_about_version": "Versão {}",
+    "dialog_about_developer": "Desenvolvido por: {}",
+    "dialog_about_github": "GitHub: {}",
+    "dialog_about_technologies": "Tecnologias utilizadas",
+    "dialog_about_system": "Sistema: {} {}",
+    "dialog_about_close": "Fechar",
+  
+    "dialog_error_title": "Erro",
+    "dialog_error_preview": "Não foi possível carregar a pré-visualização: {}",
+    "dialog_error_directory": "Não foi possível abrir o diretório:\n{}",
+    "dialog_error_history_entry": "Entrada do histórico não encontrada",
+    "dialog_error_fatal": "Ocorreu um erro fatal:\n{}",
+  
+    "dialog_warning_title": "Aviso",
+    "dialog_warning_no_files": "Nenhuma imagem selecionada para processamento",
+    "dialog_warning_no_images": "Nenhuma imagem compatível encontrada na pasta selecionada.",
+    "dialog_warning_selection_required": "Selecione um item do histórico",
+  
+    "dialog_info_title": "Informação",
+    "dialog_info_completed": "{} imagens processadas com sucesso",
+  
+    "dialog_confirm_title": "Confirmar",
+    "dialog_confirm_clear_history": "Excluir todo o histórico?",
+    "dialog_confirm_yes": "Sim",
+    "dialog_confirm_no": "Não",
+  
+    "image_type_description_cover": "Capa frontal do jogo",
+    "image_type_description_spine": "Lombada lateral da caixa",
+    "image_type_description_back": "Contracapa do jogo",
+    "image_type_description_screenshot": "Captura de tela do jogo",
+    "image_type_description_background": "Imagem de fundo para o menu",
+    "image_type_description_disc": "Imagem do disco ou etiqueta",
+    "image_type_description_logo": "Logo do jogo ou título"
+  }
+  
+  

@@ -1,0 +1,109 @@
+{
+    "language_code": "qu_pe",
+    "language_name": "Quechua (Perú)",
+  
+    "app_name": "OPL Image Converter",
+    "app_description": "OPL Manager nisqapaq wanki tikray hinaspa tamaño tikray aplicación",
+  
+    "menu_help": "Yanapay",
+    "menu_about": "Willakuy",
+    "menu_language": "Simi",
+    "menu_theme": "Tema",
+  
+    "theme_system": "Sistema (Auto)",
+    "theme_light": "Achik Modo",
+    "theme_dark": "Tutayaq Modo",
+    "theme_purple": "Kulli",
+    "theme_dark_purple": "Tutayaq Kulli",
+  
+    "file_selection": "Archivo Akllay",
+    "select_files": "Archivokuna Akllay",
+    "select_folder": "Carpeta Akllay",
+    "files_selected": "{} archivokuna akllasqa",
+    "no_files_selected": "0 archivokuna akllasqa",
+  
+    "image_type": "Wanki Laya",
+    "image_type_cover": "Qatay",
+    "image_type_spine": "Waqtan",
+    "image_type_back": "Qipa Qatay",
+    "image_type_screenshot": "Pantalla Wanki",
+    "image_type_background": "Qipa",
+    "image_type_disc": "Disco",
+    "image_type_logo": "Logo",
+  
+    "options": "Akllanakuna",
+    "maintain_aspect_ratio": "Proporción waqaychay",
+    "auto_rename": "Layaman hina kikinmanta sutichay",
+  
+    "output_directory": "Lluqsiy Directorio",
+  
+    "actions": "Ruwaykuna",
+    "convert": "Tikray",
+    "clear_selection": "Akllay Ch'uyanchay",
+  
+    "preview": "Ñawpaq Qhaway",
+    "original": "Ñawpaq",
+    "processed": "Ruwasqa",
+    "drag_drop_here": "Huk wankita kaypi aysay hinaspa kachariy",
+    "processed_preview": "Ruwasqa ñawpaq qhaway",
+    "previous": "← Ñawpaq",
+    "next": "Qatiq →",
+    "image_count": "Wanki {} / {}",
+  
+    "history": "Wiñay Kawsay",
+    "date": "P'unchaw",
+    "type": "Laya",
+    "files": "Archivokuna",
+    "status": "Imayna Kasqan",
+    "open_folder": "Carpeta Kichay",
+    "clear_history": "Wiñay Kawsay Ch'uyanchay",
+  
+    "status_ready": "Listo",
+    "status_files_loaded": "{} archivokuna cargasqa",
+    "status_processing": "Wankikuna ruwaspa...",
+    "status_processing_count": "Ruwaspa... {}/{}",
+    "status_completed": "Ruway tukusqa: {}/{} allin",
+    "status_selection_cleared": "Akllay ch'uyanchasqa",
+    "status_directory_opened": "Directorio kichasqa: {}",
+    "status_history_cleared": "Wiñay kawsay ch'uyanchasqa",
+  
+    "dialog_help_title": "Yanapay",
+    "dialog_help_content": "OPL Image Converter - Yanapay\n\n1. Wankiyuq archivokuna utaq carpetakuna akllay\n2. Tikranapaq wanki laya akllay\n3. Munasqaykiman hina akllanakuna ruway\n4. 'Tikray' ñit'iy wankikunata ruwanaykipaq\n\nChaymantapas wankikunata ñawpaq qhaway kitiman aysayta hinaspa kachariyta atinki.",
+  
+    "dialog_about_title": "Willakuy",
+    "dialog_about_version": "Versión {}",
+    "dialog_about_developer": "Ruwaqnin: {}",
+    "dialog_about_github": "GitHub: {}",
+    "dialog_about_technologies": "Tecnologiakuna llamk'achisqa",
+    "dialog_about_system": "Sistema: {} {}",
+    "dialog_about_close": "Wisq'ay",
+  
+    "dialog_error_title": "Pantay",
+    "dialog_error_preview": "Mana ñawpaq qhawayta cargayta atinchu: {}",
+    "dialog_error_directory": "Mana directoriota kichayta atinchu:\n{}",
+    "dialog_error_history_entry": "Wiñay kawsay yaykuy mana tarisqachu",
+    "dialog_error_fatal": "Huk wañuchiq pantay rikhurimun:\n{}",
+  
+    "dialog_warning_title": "Yuyaychay",
+    "dialog_warning_no_files": "Mana wankikuna akllasqachu ruwanaykipaq",
+    "dialog_warning_no_images": "Akllasqa carpetapi mana tupaq wankikuna tarisqachu.",
+    "dialog_warning_selection_required": "Wiñay kawsaymanta huk imata akllay",
+  
+    "dialog_info_title": "Willakuy",
+    "dialog_info_completed": "{} wankikuna allinta ruwasqa",
+  
+    "dialog_confirm_title": "Takyachiy",
+    "dialog_confirm_clear_history": "Llapan wiñay kawsayta ch'uyanchay?",
+    "dialog_confirm_yes": "Arí",
+    "dialog_confirm_no": "Mana",
+  
+    "image_type_description_cover": "Pukllaypa ñawpaq qataynin",
+    "image_type_description_spine": "Cajapa waqtan",
+    "image_type_description_back": "Pukllaypa qipa qataynin",
+    "image_type_description_screenshot": "Pukllaypa pantalla wankin",
+    "image_type_description_background": "Menupaq qipa wanki",
+    "image_type_description_disc": "Disco wanki utaq etiqueta",
+    "image_type_description_logo": "Pukllaypa logon utaq sutin"
+  }
+  
+  

@@ -1,0 +1,109 @@
+{
+    "language_code": "de",
+    "language_name": "Deutsch",
+  
+    "app_name": "OPL Image Converter",
+    "app_description": "Anwendung zum Konvertieren und Ändern der Größe von Bildern für OPL Manager",
+  
+    "menu_help": "Hilfe",
+    "menu_about": "Über",
+    "menu_language": "Sprache",
+    "menu_theme": "Thema",
+  
+    "theme_system": "System (Auto)",
+    "theme_light": "Heller Modus",
+    "theme_dark": "Dunkler Modus",
+    "theme_purple": "Lila",
+    "theme_dark_purple": "Dunkellila",
+  
+    "file_selection": "Dateiauswahl",
+    "select_files": "Dateien auswählen",
+    "select_folder": "Ordner auswählen",
+    "files_selected": "{} Dateien ausgewählt",
+    "no_files_selected": "0 Dateien ausgewählt",
+  
+    "image_type": "Bildtyp",
+    "image_type_cover": "Cover",
+    "image_type_spine": "Rücken",
+    "image_type_back": "Rückseite",
+    "image_type_screenshot": "Screenshot",
+    "image_type_background": "Hintergrund",
+    "image_type_disc": "Disc",
+    "image_type_logo": "Logo",
+  
+    "options": "Optionen",
+    "maintain_aspect_ratio": "Seitenverhältnis beibehalten",
+    "auto_rename": "Automatisch nach Typ umbenennen",
+  
+    "output_directory": "Ausgabeverzeichnis",
+  
+    "actions": "Aktionen",
+    "convert": "Konvertieren",
+    "clear_selection": "Auswahl löschen",
+  
+    "preview": "Vorschau",
+    "original": "Original",
+    "processed": "Verarbeitet",
+    "drag_drop_here": "Bild hier ablegen",
+    "processed_preview": "Verarbeitete Vorschau",
+    "previous": "← Vorheriges",
+    "next": "Nächstes →",
+    "image_count": "Bild {} von {}",
+  
+    "history": "Verlauf",
+    "date": "Datum",
+    "type": "Typ",
+    "files": "Dateien",
+    "status": "Status",
+    "open_folder": "Ordner öffnen",
+    "clear_history": "Verlauf löschen",
+  
+    "status_ready": "Bereit",
+    "status_files_loaded": "{} Dateien geladen",
+    "status_processing": "Bilder werden verarbeitet...",
+    "status_processing_count": "Verarbeitung... {}/{}",
+    "status_completed": "Vorgang abgeschlossen: {}/{} erfolgreich",
+    "status_selection_cleared": "Auswahl gelöscht",
+    "status_directory_opened": "Verzeichnis geöffnet: {}",
+    "status_history_cleared": "Verlauf gelöscht",
+  
+    "dialog_help_title": "Hilfe",
+    "dialog_help_content": "OPL Image Converter - Hilfe\n\n1. Wählen Sie Dateien oder Ordner mit Bildern aus\n2. Wählen Sie den zu konvertierenden Bildtyp\n3. Konfigurieren Sie die gewünschten Optionen\n4. Klicken Sie auf 'Konvertieren', um die Bilder zu verarbeiten\n\nSie können Bilder auch direkt in den Vorschaubereich ziehen und ablegen.",
+  
+    "dialog_about_title": "Über",
+    "dialog_about_version": "Version {}",
+    "dialog_about_developer": "Entwickelt von: {}",
+    "dialog_about_github": "GitHub: {}",
+    "dialog_about_technologies": "Verwendete Technologien",
+    "dialog_about_system": "System: {} {}",
+    "dialog_about_close": "Schließen",
+  
+    "dialog_error_title": "Fehler",
+    "dialog_error_preview": "Vorschau konnte nicht geladen werden: {}",
+    "dialog_error_directory": "Verzeichnis konnte nicht geöffnet werden:\n{}",
+    "dialog_error_history_entry": "Verlaufseintrag nicht gefunden",
+    "dialog_error_fatal": "Ein schwerwiegender Fehler ist aufgetreten:\n{}",
+  
+    "dialog_warning_title": "Warnung",
+    "dialog_warning_no_files": "Keine Bilder zur Verarbeitung ausgewählt",
+    "dialog_warning_no_images": "Keine kompatiblen Bilder im ausgewählten Ordner gefunden.",
+    "dialog_warning_selection_required": "Wählen Sie einen Eintrag aus dem Verlauf",
+  
+    "dialog_info_title": "Information",
+    "dialog_info_completed": "{} Bilder erfolgreich verarbeitet",
+  
+    "dialog_confirm_title": "Bestätigen",
+    "dialog_confirm_clear_history": "Gesamten Verlauf löschen?",
+    "dialog_confirm_yes": "Ja",
+    "dialog_confirm_no": "Nein",
+  
+    "image_type_description_cover": "Vorderseite des Spiels",
+    "image_type_description_spine": "Seitenrand der Box",
+    "image_type_description_back": "Rückseite des Spiels",
+    "image_type_description_screenshot": "Screenshot des Spiels",
+    "image_type_description_background": "Hintergrundbild für das Menü",
+    "image_type_description_disc": "Disc-Bild oder Etikett",
+    "image_type_description_logo": "Spiellogo oder Titel"
+  }
+  
+  

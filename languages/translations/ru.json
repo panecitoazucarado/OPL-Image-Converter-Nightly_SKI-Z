@@ -1,0 +1,109 @@
+{
+    "language_code": "ru",
+    "language_name": "Русский",
+  
+    "app_name": "OPL Image Converter",
+    "app_description": "Приложение для конвертации и изменения размера изображений для OPL Manager",
+  
+    "menu_help": "Помощь",
+    "menu_about": "О программе",
+    "menu_language": "Язык",
+    "menu_theme": "Тема",
+  
+    "theme_system": "Система (Авто)",
+    "theme_light": "Светлая тема",
+    "theme_dark": "Тёмная тема",
+    "theme_purple": "Фиолетовая",
+    "theme_dark_purple": "Тёмно-фиолетовая",
+  
+    "file_selection": "Выбор файлов",
+    "select_files": "Выбрать файлы",
+    "select_folder": "Выбрать папку",
+    "files_selected": "Выбрано файлов: {}",
+    "no_files_selected": "Файлы не выбраны",
+  
+    "image_type": "Тип изображения",
+    "image_type_cover": "Обложка",
+    "image_type_spine": "Корешок",
+    "image_type_back": "Задняя обложка",
+    "image_type_screenshot": "Скриншот",
+    "image_type_background": "Фон",
+    "image_type_disc": "Диск",
+    "image_type_logo": "Логотип",
+  
+    "options": "Настройки",
+    "maintain_aspect_ratio": "Сохранять пропорции",
+    "auto_rename": "Автоматически переименовывать по типу",
+  
+    "output_directory": "Папка вывода",
+  
+    "actions": "Действия",
+    "convert": "Конвертировать",
+    "clear_selection": "Очистить выбор",
+  
+    "preview": "Предпросмотр",
+    "original": "Оригинал",
+    "processed": "Обработанное",
+    "drag_drop_here": "Перетащите изображение сюда",
+    "processed_preview": "Предпросмотр обработки",
+    "previous": "← Предыдущее",
+    "next": "Следующее →",
+    "image_count": "Изображение {} из {}",
+  
+    "history": "История",
+    "date": "Дата",
+    "type": "Тип",
+    "files": "Файлы",
+    "status": "Статус",
+    "open_folder": "Открыть папку",
+    "clear_history": "Очистить историю",
+  
+    "status_ready": "Готово",
+    "status_files_loaded": "Загружено файлов: {}",
+    "status_processing": "Обработка изображений...",
+    "status_processing_count": "Обработка... {}/{}",
+    "status_completed": "Процесс завершен: {}/{} успешно",
+    "status_selection_cleared": "Выбор очищен",
+    "status_directory_opened": "Папка открыта: {}",
+    "status_history_cleared": "История очищена",
+  
+    "dialog_help_title": "Помощь",
+    "dialog_help_content": "OPL Image Converter - Помощь\n\n1. Выберите файлы или папки с изображениями\n2. Выберите тип изображения для конвертации\n3. Настройте необходимые параметры\n4. Нажмите 'Конвертировать' для обработки изображений\n\nВы также можете перетащить изображения прямо в область предпросмотра.",
+  
+    "dialog_about_title": "О программе",
+    "dialog_about_version": "Версия {}",
+    "dialog_about_developer": "Разработчик: {}",
+    "dialog_about_github": "GitHub: {}",
+    "dialog_about_technologies": "Используемые технологии",
+    "dialog_about_system": "Система: {} {}",
+    "dialog_about_close": "Закрыть",
+  
+    "dialog_error_title": "Ошибка",
+    "dialog_error_preview": "Не удалось загрузить предпросмотр: {}",
+    "dialog_error_directory": "Не удалось открыть папку:\n{}",
+    "dialog_error_history_entry": "Запись истории не найдена",
+    "dialog_error_fatal": "Произошла критическая ошибка:\n{}",
+  
+    "dialog_warning_title": "Предупреждение",
+    "dialog_warning_no_files": "Не выбраны изображения для обработки",
+    "dialog_warning_no_images": "В выбранной папке не найдено совместимых изображений.",
+    "dialog_warning_selection_required": "Выберите элемент из истории",
+  
+    "dialog_info_title": "Информация",
+    "dialog_info_completed": "Успешно обработано изображений: {}",
+  
+    "dialog_confirm_title": "Подтверждение",
+    "dialog_confirm_clear_history": "Удалить всю историю?",
+    "dialog_confirm_yes": "Да",
+    "dialog_confirm_no": "Нет",
+  
+    "image_type_description_cover": "Передняя обложка игры",
+    "image_type_description_spine": "Боковая сторона коробки",
+    "image_type_description_back": "Задняя обложка игры",
+    "image_type_description_screenshot": "Скриншот из игры",
+    "image_type_description_background": "Фоновое изображение для меню",
+    "image_type_description_disc": "Изображение диска или этикетка",
+    "image_type_description_logo": "Логотип игры или название"
+  }
+  
+  

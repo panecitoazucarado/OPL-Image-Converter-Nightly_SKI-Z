@@ -1,0 +1,109 @@
+{
+    "language_code": "ko",
+    "language_name": "한국어",
+  
+    "app_name": "OPL Image Converter",
+    "app_description": "OPL Manager용 이미지 변환 및 크기 조정 애플리케이션",
+  
+    "menu_help": "도움말",
+    "menu_about": "정보",
+    "menu_language": "언어",
+    "menu_theme": "테마",
+  
+    "theme_system": "시스템 (자동)",
+    "theme_light": "라이트 모드",
+    "theme_dark": "다크 모드",
+    "theme_purple": "보라색",
+    "theme_dark_purple": "어두운 보라색",
+  
+    "file_selection": "파일 선택",
+    "select_files": "파일 선택",
+    "select_folder": "폴더 선택",
+    "files_selected": "{}개 파일 선택됨",
+    "no_files_selected": "0개 파일 선택됨",
+  
+    "image_type": "이미지 유형",
+    "image_type_cover": "커버",
+    "image_type_spine": "측면",
+    "image_type_back": "뒷표지",
+    "image_type_screenshot": "스크린샷",
+    "image_type_background": "배경",
+    "image_type_disc": "디스크",
+    "image_type_logo": "로고",
+  
+    "options": "옵션",
+    "maintain_aspect_ratio": "종횡비 유지",
+    "auto_rename": "유형에 따라 자동 이름 변경",
+  
+    "output_directory": "출력 디렉토리",
+  
+    "actions": "작업",
+    "convert": "변환",
+    "clear_selection": "선택 지우기",
+  
+    "preview": "미리보기",
+    "original": "원본",
+    "processed": "처리됨",
+    "drag_drop_here": "여기에 이미지를 끌어다 놓으세요",
+    "processed_preview": "처리된 미리보기",
+    "previous": "← 이전",
+    "next": "다음 →",
+    "image_count": "이미지 {} / {}",
+  
+    "history": "기록",
+    "date": "날짜",
+    "type": "유형",
+    "files": "파일",
+    "status": "상태",
+    "open_folder": "폴더 열기",
+    "clear_history": "기록 지우기",
+  
+    "status_ready": "준비됨",
+    "status_files_loaded": "{}개 파일 로드됨",
+    "status_processing": "이미지 처리 중...",
+    "status_processing_count": "처리 중... {}/{}",
+    "status_completed": "처리 완료: {}/{}개 성공",
+    "status_selection_cleared": "선택 지워짐",
+    "status_directory_opened": "디렉토리 열림: {}",
+    "status_history_cleared": "기록 지워짐",
+  
+    "dialog_help_title": "도움말",
+    "dialog_help_content": "OPL Image Converter - 도움말\n\n1. 이미지가 있는 파일이나 폴더 선택\n2. 변환할 이미지 유형 선택\n3. 원하는 옵션 구성\n4. '변환'을 클릭하여 이미지 처리\n\n미리보기 영역에 직접 이미지를 끌어다 놓을 수도 있습니다.",
+  
+    "dialog_about_title": "정보",
+    "dialog_about_version": "버전 {}",
+    "dialog_about_developer": "개발자: {}",
+    "dialog_about_github": "GitHub: {}",
+    "dialog_about_technologies": "사용된 기술",
+    "dialog_about_system": "시스템: {} {}",
+    "dialog_about_close": "닫기",
+  
+    "dialog_error_title": "오류",
+    "dialog_error_preview": "미리보기를 로드할 수 없음: {}",
+    "dialog_error_directory": "디렉토리를 열 수 없음:\n{}",
+    "dialog_error_history_entry": "기록 항목을 찾을 수 없음",
+    "dialog_error_fatal": "치명적인 오류가 발생했습니다:\n{}",
+  
+    "dialog_warning_title": "경고",
+    "dialog_warning_no_files": "처리할 이미지가 선택되지 않았습니다",
+    "dialog_warning_no_images": "선택한 폴더에서 호환되는 이미지를 찾을 수 없습니다.",
+    "dialog_warning_selection_required": "기록에서 항목을 선택하세요",
+  
+    "dialog_info_title": "정보",
+    "dialog_info_completed": "{}개 이미지가 성공적으로 처리됨",
+  
+    "dialog_confirm_title": "확인",
+    "dialog_confirm_clear_history": "모든 기록을 삭제하시겠습니까?",
+    "dialog_confirm_yes": "예",
+    "dialog_confirm_no": "아니오",
+  
+    "image_type_description_cover": "게임 앞표지",
+    "image_type_description_spine": "박스 측면 가장자리",
+    "image_type_description_back": "게임 뒷표지",
+    "image_type_description_screenshot": "게임 스크린샷",
+    "image_type_description_background": "메뉴용 배경 이미지",
+    "image_type_description_disc": "디스크 이미지 또는 라벨",
+    "image_type_description_logo": "게임 로고 또는 제목"
+  }
+  
+  

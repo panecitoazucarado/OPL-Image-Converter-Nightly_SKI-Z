@@ -1,0 +1,109 @@
+{
+    "language_code": "en_gb",
+    "language_name": "English (UK)",
+  
+    "app_name": "OPL Image Converter",
+    "app_description": "Application to convert and resize images for OPL Manager",
+  
+    "menu_help": "Help",
+    "menu_about": "About",
+    "menu_language": "Language",
+    "menu_theme": "Theme",
+  
+    "theme_system": "System (Auto)",
+    "theme_light": "Light Mode",
+    "theme_dark": "Dark Mode",
+    "theme_purple": "Purple",
+    "theme_dark_purple": "Dark Purple",
+  
+    "file_selection": "File Selection",
+    "select_files": "Select Files",
+    "select_folder": "Select Folder",
+    "files_selected": "{} files selected",
+    "no_files_selected": "0 files selected",
+  
+    "image_type": "Image Type",
+    "image_type_cover": "Cover",
+    "image_type_spine": "Spine",
+    "image_type_back": "Back Cover",
+    "image_type_screenshot": "Screenshot",
+    "image_type_background": "Background",
+    "image_type_disc": "Disc",
+    "image_type_logo": "Logo",
+  
+    "options": "Options",
+    "maintain_aspect_ratio": "Maintain aspect ratio",
+    "auto_rename": "Auto-rename according to type",
+  
+    "output_directory": "Output Directory",
+  
+    "actions": "Actions",
+    "convert": "Convert",
+    "clear_selection": "Clear Selection",
+  
+    "preview": "Preview",
+    "original": "Original",
+    "processed": "Processed",
+    "drag_drop_here": "Drag and drop an image here",
+    "processed_preview": "Processed preview",
+    "previous": "← Previous",
+    "next": "Next →",
+    "image_count": "Image {} of {}",
+  
+    "history": "History",
+    "date": "Date",
+    "type": "Type",
+    "files": "Files",
+    "status": "Status",
+    "open_folder": "Open Folder",
+    "clear_history": "Clear History",
+  
+    "status_ready": "Ready",
+    "status_files_loaded": "{} files loaded",
+    "status_processing": "Processing images...",
+    "status_processing_count": "Processing... {}/{}",
+    "status_completed": "Process completed: {}/{} successes",
+    "status_selection_cleared": "Selection cleared",
+    "status_directory_opened": "Directory opened: {}",
+    "status_history_cleared": "History cleared",
+  
+    "dialog_help_title": "Help",
+    "dialog_help_content": "OPL Image Converter - Help\n\n1. Select files or folders with images\n2. Choose the image type to convert\n3. Configure the desired options\n4. Click on 'Convert' to process the images\n\nYou can also drag and drop images directly into the preview area.",
+  
+    "dialog_about_title": "About",
+    "dialog_about_version": "Version {}",
+    "dialog_about_developer": "Developed by: {}",
+    "dialog_about_github": "GitHub: {}",
+    "dialog_about_technologies": "Technologies used",
+    "dialog_about_system": "System: {} {}",
+    "dialog_about_close": "Close",
+  
+    "dialog_error_title": "Error",
+    "dialog_error_preview": "Could not load preview: {}",
+    "dialog_error_directory": "Could not open directory:\n{}",
+    "dialog_error_history_entry": "History entry not found",
+    "dialog_error_fatal": "A fatal error has occurred:\n{}",
+  
+    "dialog_warning_title": "Warning",
+    "dialog_warning_no_files": "No images selected for processing",
+    "dialog_warning_no_images": "No compatible images found in the selected folder.",
+    "dialog_warning_selection_required": "Select an item from history",
+  
+    "dialog_info_title": "Information",
+    "dialog_info_completed": "{} images processed successfully",
+  
+    "dialog_confirm_title": "Confirm",
+    "dialog_confirm_clear_history": "Delete all history?",
+    "dialog_confirm_yes": "Yes",
+    "dialog_confirm_no": "No",
+  
+    "image_type_description_cover": "Front cover of the game",
+    "image_type_description_spine": "Side edge of the box",
+    "image_type_description_back": "Back cover of the game",
+    "image_type_description_screenshot": "Screenshot of the game",
+    "image_type_description_background": "Background image for the menu",
+    "image_type_description_disc": "Disc image or label",
+    "image_type_description_logo": "Game logo or title"
+  }
+  
+  

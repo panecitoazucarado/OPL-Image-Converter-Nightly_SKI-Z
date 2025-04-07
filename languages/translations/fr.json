@@ -1,0 +1,109 @@
+{
+    "language_code": "fr",
+    "language_name": "Français",
+  
+    "app_name": "OPL Image Converter",
+    "app_description": "Application pour convertir et redimensionner des images pour OPL Manager",
+  
+    "menu_help": "Aide",
+    "menu_about": "À propos",
+    "menu_language": "Langue",
+    "menu_theme": "Thème",
+  
+    "theme_system": "Système (Auto)",
+    "theme_light": "Mode Clair",
+    "theme_dark": "Mode Sombre",
+    "theme_purple": "Violet",
+    "theme_dark_purple": "Violet Foncé",
+  
+    "file_selection": "Sélection de Fichiers",
+    "select_files": "Sélectionner Fichiers",
+    "select_folder": "Sélectionner Dossier",
+    "files_selected": "{} fichiers sélectionnés",
+    "no_files_selected": "0 fichiers sélectionnés",
+  
+    "image_type": "Type d'Image",
+    "image_type_cover": "Jaquette",
+    "image_type_spine": "Tranche",
+    "image_type_back": "Dos",
+    "image_type_screenshot": "Capture d'écran",
+    "image_type_background": "Arrière-plan",
+    "image_type_disc": "Disque",
+    "image_type_logo": "Logo",
+  
+    "options": "Options",
+    "maintain_aspect_ratio": "Conserver les proportions",
+    "auto_rename": "Renommer automatiquement selon le type",
+  
+    "output_directory": "Répertoire de Sortie",
+  
+    "actions": "Actions",
+    "convert": "Convertir",
+    "clear_selection": "Effacer la Sélection",
+  
+    "preview": "Aperçu",
+    "original": "Original",
+    "processed": "Traité",
+    "drag_drop_here": "Glissez et déposez une image ici",
+    "processed_preview": "Aperçu traité",
+    "previous": "← Précédent",
+    "next": "Suivant →",
+    "image_count": "Image {} sur {}",
+  
+    "history": "Historique",
+    "date": "Date",
+    "type": "Type",
+    "files": "Fichiers",
+    "status": "Statut",
+    "open_folder": "Ouvrir le Dossier",
+    "clear_history": "Effacer l'Historique",
+  
+    "status_ready": "Prêt",
+    "status_files_loaded": "{} fichiers chargés",
+    "status_processing": "Traitement des images...",
+    "status_processing_count": "Traitement... {}/{}",
+    "status_completed": "Processus terminé: {}/{} réussites",
+    "status_selection_cleared": "Sélection effacée",
+    "status_directory_opened": "Répertoire ouvert: {}",
+    "status_history_cleared": "Historique effacé",
+  
+    "dialog_help_title": "Aide",
+    "dialog_help_content": "OPL Image Converter - Aide\n\n1. Sélectionnez des fichiers ou des dossiers avec des images\n2. Choisissez le type d'image à convertir\n3. Configurez les options souhaitées\n4. Cliquez sur 'Convertir' pour traiter les images\n\nVous pouvez également glisser-déposer des images directement dans la zone d'aperçu.",
+  
+    "dialog_about_title": "À propos",
+    "dialog_about_version": "Version {}",
+    "dialog_about_developer": "Développé par: {}",
+    "dialog_about_github": "GitHub: {}",
+    "dialog_about_technologies": "Technologies utilisées",
+    "dialog_about_system": "Système: {} {}",
+    "dialog_about_close": "Fermer",
+  
+    "dialog_error_title": "Erreur",
+    "dialog_error_preview": "Impossible de charger l'aperçu: {}",
+    "dialog_error_directory": "Impossible d'ouvrir le répertoire:\n{}",
+    "dialog_error_history_entry": "Entrée d'historique introuvable",
+    "dialog_error_fatal": "Une erreur fatale s'est produite:\n{}",
+  
+    "dialog_warning_title": "Avertissement",
+    "dialog_warning_no_files": "Aucune image sélectionnée pour le traitement",
+    "dialog_warning_no_images": "Aucune image compatible trouvée dans le dossier sélectionné.",
+    "dialog_warning_selection_required": "Sélectionnez un élément de l'historique",
+  
+    "dialog_info_title": "Information",
+    "dialog_info_completed": "{} images traitées avec succès",
+  
+    "dialog_confirm_title": "Confirmer",
+    "dialog_confirm_clear_history": "Supprimer tout l'historique?",
+    "dialog_confirm_yes": "Oui",
+    "dialog_confirm_no": "Non",
+  
+    "image_type_description_cover": "Jaquette avant du jeu",
+    "image_type_description_spine": "Tranche latérale de la boîte",
+    "image_type_description_back": "Jaquette arrière du jeu",
+    "image_type_description_screenshot": "Capture d'écran du jeu",
+    "image_type_description_background": "Image d'arrière-plan pour le menu",
+    "image_type_description_disc": "Image du disque ou étiquette",
+    "image_type_description_logo": "Logo du jeu ou titre"
+  }
+  
+  

@@ -1,0 +1,109 @@
+{
+    "language_code": "ja",
+    "language_name": "日本語",
+  
+    "app_name": "OPL Image Converter",
+    "app_description": "OPL Manager用の画像を変換・リサイズするアプリケーション",
+  
+    "menu_help": "ヘルプ",
+    "menu_about": "情報",
+    "menu_language": "言語",
+    "menu_theme": "テーマ",
+  
+    "theme_system": "システム（自動）",
+    "theme_light": "ライトモード",
+    "theme_dark": "ダークモード",
+    "theme_purple": "パープル",
+    "theme_dark_purple": "ダークパープル",
+  
+    "file_selection": "ファイル選択",
+    "select_files": "ファイルを選択",
+    "select_folder": "フォルダを選択",
+    "files_selected": "{}ファイルが選択されました",
+    "no_files_selected": "0ファイルが選択されました",
+  
+    "image_type": "画像タイプ",
+    "image_type_cover": "カバー",
+    "image_type_spine": "背表紙",
+    "image_type_back": "裏表紙",
+    "image_type_screenshot": "スクリーンショット",
+    "image_type_background": "背景",
+    "image_type_disc": "ディスク",
+    "image_type_logo": "ロゴ",
+  
+    "options": "オプション",
+    "maintain_aspect_ratio": "アスペクト比を維持",
+    "auto_rename": "タイプに応じて自動的に名前を変更",
+  
+    "output_directory": "出力ディレクトリ",
+  
+    "actions": "アクション",
+    "convert": "変換",
+    "clear_selection": "選択をクリア",
+  
+    "preview": "プレビュー",
+    "original": "オリジナル",
+    "processed": "処理済み",
+    "drag_drop_here": "ここに画像をドラッグ＆ドロップ",
+    "processed_preview": "処理済みプレビュー",
+    "previous": "← 前へ",
+    "next": "次へ →",
+    "image_count": "画像 {} / {}",
+  
+    "history": "履歴",
+    "date": "日付",
+    "type": "タイプ",
+    "files": "ファイル",
+    "status": "状態",
+    "open_folder": "フォルダを開く",
+    "clear_history": "履歴をクリア",
+  
+    "status_ready": "準備完了",
+    "status_files_loaded": "{}ファイルが読み込まれました",
+    "status_processing": "画像を処理中...",
+    "status_processing_count": "処理中... {}/{}",
+    "status_completed": "処理完了: {}/{}成功",
+    "status_selection_cleared": "選択がクリアされました",
+    "status_directory_opened": "ディレクトリが開かれました: {}",
+    "status_history_cleared": "履歴がクリアされました",
+  
+    "dialog_help_title": "ヘルプ",
+    "dialog_help_content": "OPL Image Converter - ヘルプ\n\n1. 画像ファイルまたはフォルダを選択\n2. 変換する画像タイプを選択\n3. 希望のオプションを設定\n4. '変換'をクリックして画像を処理\n\nプレビューエリアに直接画像をドラッグ＆ドロップすることもできます。",
+  
+    "dialog_about_title": "情報",
+    "dialog_about_version": "バージョン {}",
+    "dialog_about_developer": "開発者: {}",
+    "dialog_about_github": "GitHub: {}",
+    "dialog_about_technologies": "使用技術",
+    "dialog_about_system": "システム: {} {}",
+    "dialog_about_close": "閉じる",
+  
+    "dialog_error_title": "エラー",
+    "dialog_error_preview": "プレビューを読み込めませんでした: {}",
+    "dialog_error_directory": "ディレクトリを開けませんでした:\n{}",
+    "dialog_error_history_entry": "履歴エントリが見つかりません",
+    "dialog_error_fatal": "致命的なエラーが発生しました:\n{}",
+  
+    "dialog_warning_title": "警告",
+    "dialog_warning_no_files": "処理する画像が選択されていません",
+    "dialog_warning_no_images": "選択したフォルダに互換性のある画像が見つかりません。",
+    "dialog_warning_selection_required": "履歴からアイテムを選択してください",
+  
+    "dialog_info_title": "情報",
+    "dialog_info_completed": "{}画像が正常に処理されました",
+  
+    "dialog_confirm_title": "確認",
+    "dialog_confirm_clear_history": "すべての履歴を削除しますか？",
+    "dialog_confirm_yes": "はい",
+    "dialog_confirm_no": "いいえ",
+  
+    "image_type_description_cover": "ゲームの表紙",
+    "image_type_description_spine": "ボックスの側面",
+    "image_type_description_back": "ゲームの裏表紙",
+    "image_type_description_screenshot": "ゲームのスクリーンショット",
+    "image_type_description_background": "メニューの背景画像",
+    "image_type_description_disc": "ディスク画像またはラベル",
+    "image_type_description_logo": "ゲームのロゴまたはタイトル"
+  }
+  
+  

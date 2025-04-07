@@ -1,0 +1,109 @@
+{
+    "language_code": "gn_py",
+    "language_name": "Guaraní (Paraguay)",
+  
+    "app_name": "OPL Image Converter",
+    "app_description": "Tembiporu oñemoambue ha oñemomichĩ ta'ãnga OPL Manager peguarã",
+  
+    "menu_help": "Pytyvõ",
+    "menu_about": "Marandu",
+    "menu_language": "Ñe'ẽ",
+    "menu_theme": "Teko",
+  
+    "theme_system": "Sistema (Auto)",
+    "theme_light": "Teko Sakã",
+    "theme_dark": "Teko Pytũ",
+    "theme_purple": "Pytãũ",
+    "theme_dark_purple": "Pytãũ Pytũ",
+  
+    "file_selection": "Jeporavo Kuatiakuéra",
+    "select_files": "Eiporavo Kuatiakuéra",
+    "select_folder": "Eiporavo Ñongatuha",
+    "files_selected": "{} kuatiakuéra poravopyre",
+    "no_files_selected": "0 kuatiakuéra poravopyre",
+  
+    "image_type": "Ta'ãnga Pehẽngue",
+    "image_type_cover": "Ahoja",
+    "image_type_spine": "Kuatia Kupe",
+    "image_type_back": "Ahoja Kupe",
+    "image_type_screenshot": "Mba'erechaha",
+    "image_type_background": "Ñemohenda",
+    "image_type_disc": "Disco",
+    "image_type_logo": "Logo",
+  
+    "options": "Poravopyrã",
+    "maintain_aspect_ratio": "Eñangareko tuichakue rehegua",
+    "auto_rename": "Embohera pyahu ijehegui pehẽngue rupi",
+  
+    "output_directory": "Ñongatuha Ñeñapytĩha",
+  
+    "actions": "Tembiaporã",
+    "convert": "Moambue",
+    "clear_selection": "Embogue Jeporavo",
+  
+    "preview": "Jehecha Ypy",
+    "original": "Ypykue",
+    "processed": "Oñemoĩporãma",
+    "drag_drop_here": "Embosyry ha epoi ta'ãnga ko'ápe",
+    "processed_preview": "Jehecha ypy oñemoĩporãma",
+    "previous": "← Mboyvegua",
+    "next": "Upeigua →",
+    "image_count": "Ta'ãnga {} / {}",
+  
+    "history": "Tembiasakue",
+    "date": "Arange",
+    "type": "Pehẽngue",
+    "files": "Kuatiakuéra",
+    "status": "Tekotevẽ",
+    "open_folder": "Eike Ñongatuhápe",
+    "clear_history": "Embogue Tembiasakue",
+  
+    "status_ready": "Oĩma",
+    "status_files_loaded": "{} kuatiakuéra ojehupi",
+    "status_processing": "Oñemoĩporã ta'ãnga...",
+    "status_processing_count": "Oñemoĩporã... {}/{}",
+    "status_completed": "Tembiaporã oĩma: {}/{} oikopyre",
+    "status_selection_cleared": "Jeporavo oñembogue",
+    "status_directory_opened": "Ñongatuha ojeike: {}",
+    "status_history_cleared": "Tembiasakue oñembogue",
+  
+    "dialog_help_title": "Pytyvõ",
+    "dialog_help_content": "OPL Image Converter - Pytyvõ\n\n1. Eiporavo kuatiakuéra térã ñongatuha ta'ãnga reheve\n2. Eiporavo mba'e ta'ãnga pehẽngue emoambuese\n3. Emoĩporã poravopyrã reipotaháicha\n4. Ejopy 'Moambue' emba'apo hag̃ua ta'ãnga\n\nIkatu avei embosyry ha epoi ta'ãnga jehecha ypy rendápe.",
+  
+    "dialog_about_title": "Marandu",
+    "dialog_about_version": "Pehẽngue {}",
+    "dialog_about_developer": "Ojapo: {}",
+    "dialog_about_github": "GitHub: {}",
+    "dialog_about_technologies": "Tembiporu ojeporu",
+    "dialog_about_system": "Sistema: {} {}",
+    "dialog_about_close": "Mboty",
+  
+    "dialog_error_title": "Jejavy",
+    "dialog_error_preview": "Ndaikatúi ojehupi jehecha ypy: {}",
+    "dialog_error_directory": "Ndaikatúi ojeike ñongatuhápe:\n{}",
+    "dialog_error_history_entry": "Ndojejuhúi tembiasakue",
+    "dialog_error_fatal": "Oiko peteĩ jejavy ivaivéva:\n{}",
+  
+    "dialog_warning_title": "Ñemomarandu",
+    "dialog_warning_no_files": "Ndaipóri ta'ãnga poravopyre oñemoĩporã hag̃ua",
+    "dialog_warning_no_images": "Ndojejuhúi ta'ãnga oikokuaáva ñongatuha poravopýrape.",
+    "dialog_warning_selection_required": "Eiporavo peteĩ mba'e tembiasakuégui",
+  
+    "dialog_info_title": "Marandu",
+    "dialog_info_completed": "{} ta'ãnga oñemoĩporã porãiterei",
+  
+    "dialog_confirm_title": "Moneĩ",
+    "dialog_confirm_clear_history": "¿Embogue opavave tembiasakue?",
+    "dialog_confirm_yes": "Héẽ",
+    "dialog_confirm_no": "Nahániri",
+  
+    "image_type_description_cover": "Ahoja tenondegua ñembosarái",
+    "image_type_description_spine": "Mba'yru jehe'a yke",
+    "image_type_description_back": "Ahoja kupegua ñembosarái",
+    "image_type_description_screenshot": "Mba'erechaha ñembosarái",
+    "image_type_description_background": "Ta'ãnga ñemohenda poravorã",
+    "image_type_description_disc": "Ta'ãnga disco térã techaukapy",
+    "image_type_description_logo": "Logo ñembosarái térã téra"
+  }
+  
+  

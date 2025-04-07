@@ -1,0 +1,109 @@
+{
+    "language_code": "zh_tw",
+    "language_name": "中文 (繁體)",
+  
+    "app_name": "OPL Image Converter",
+    "app_description": "用於OPL Manager的圖像轉換和調整大小應用程序",
+  
+    "menu_help": "幫助",
+    "menu_about": "關於",
+    "menu_language": "語言",
+    "menu_theme": "主題",
+  
+    "theme_system": "系統（自動）",
+    "theme_light": "淺色模式",
+    "theme_dark": "深色模式",
+    "theme_purple": "紫色",
+    "theme_dark_purple": "深紫色",
+  
+    "file_selection": "檔案選擇",
+    "select_files": "選擇檔案",
+    "select_folder": "選擇資料夾",
+    "files_selected": "已選擇{}個檔案",
+    "no_files_selected": "已選擇0個檔案",
+  
+    "image_type": "圖像類型",
+    "image_type_cover": "封面",
+    "image_type_spine": "側邊",
+    "image_type_back": "背面",
+    "image_type_screenshot": "截圖",
+    "image_type_background": "背景",
+    "image_type_disc": "光碟",
+    "image_type_logo": "標誌",
+  
+    "options": "選項",
+    "maintain_aspect_ratio": "保持寬高比",
+    "auto_rename": "根據類型自動重命名",
+  
+    "output_directory": "輸出目錄",
+  
+    "actions": "操作",
+    "convert": "轉換",
+    "clear_selection": "清除選擇",
+  
+    "preview": "預覽",
+    "original": "原始",
+    "processed": "處理後",
+    "drag_drop_here": "將圖像拖放到此處",
+    "processed_preview": "處理後預覽",
+    "previous": "← 上一個",
+    "next": "下一個 →",
+    "image_count": "圖像 {} / {}",
+  
+    "history": "歷史記錄",
+    "date": "日期",
+    "type": "類型",
+    "files": "檔案",
+    "status": "狀態",
+    "open_folder": "開啟資料夾",
+    "clear_history": "清除歷史記錄",
+  
+    "status_ready": "就緒",
+    "status_files_loaded": "已載入{}個檔案",
+    "status_processing": "正在處理圖像...",
+    "status_processing_count": "正在處理... {}/{}",
+    "status_completed": "處理完成: {}/{}成功",
+    "status_selection_cleared": "已清除選擇",
+    "status_directory_opened": "已開啟目錄: {}",
+    "status_history_cleared": "已清除歷史記錄",
+  
+    "dialog_help_title": "幫助",
+    "dialog_help_content": "OPL Image Converter - 幫助\n\n1. 選擇包含圖像的檔案或資料夾\n2. 選擇要轉換的圖像類型\n3. 配置所需選項\n4. 點擊「轉換」處理圖像\n\n您也可以直接將圖像拖放到預覽區域。",
+  
+    "dialog_about_title": "關於",
+    "dialog_about_version": "版本 {}",
+    "dialog_about_developer": "開發者: {}",
+    "dialog_about_github": "GitHub: {}",
+    "dialog_about_technologies": "使用的技術",
+    "dialog_about_system": "系統: {} {}",
+    "dialog_about_close": "關閉",
+  
+    "dialog_error_title": "錯誤",
+    "dialog_error_preview": "無法載入預覽: {}",
+    "dialog_error_directory": "無法開啟目錄:\n{}",
+    "dialog_error_history_entry": "未找到歷史記錄條目",
+    "dialog_error_fatal": "發生致命錯誤:\n{}",
+  
+    "dialog_warning_title": "警告",
+    "dialog_warning_no_files": "沒有選擇要處理的圖像",
+    "dialog_warning_no_images": "在選定的資料夾中未找到兼容的圖像。",
+    "dialog_warning_selection_required": "從歷史記錄中選擇一個項目",
+  
+    "dialog_info_title": "資訊",
+    "dialog_info_completed": "成功處理{}個圖像",
+  
+    "dialog_confirm_title": "確認",
+    "dialog_confirm_clear_history": "刪除所有歷史記錄？",
+    "dialog_confirm_yes": "是",
+    "dialog_confirm_no": "否",
+  
+    "image_type_description_cover": "遊戲正面封面",
+    "image_type_description_spine": "盒子側邊",
+    "image_type_description_back": "遊戲背面封面",
+    "image_type_description_screenshot": "遊戲截圖",
+    "image_type_description_background": "選單背景圖像",
+    "image_type_description_disc": "光碟圖像或標籤",
+    "image_type_description_logo": "遊戲標誌或標題"
+  }
+  
+  
